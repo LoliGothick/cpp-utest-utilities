@@ -1,2 +1,2 @@
-# cpp-utest-utilities
+# mitama-utest-utilities
 C++ Unit Test Utilities
